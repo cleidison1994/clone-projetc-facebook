@@ -39,7 +39,7 @@ class PostList extends Component {
                   avatar: naruto
                 },
                 date: '04 Jun 2019',
-                content: 'Pessoal, alguém sabe se a Rocketseat está contratando?',
+                content: 'Integer dignissim erat at vulputate semper. Praesent eget nulla vitae felis auctor efficitur non ac diam. Donec elit augue, tempus ac libero in, lobortis pellentesque neque. Aliquam quis vestibulum mi, vitae tincidunt nisi.',
                 comments: [
                   {
                     id: 1,
@@ -48,8 +48,7 @@ class PostList extends Component {
                       avatar: kisame
                     },
                     date: '04 Jun 2019',
-                    content:
-                      'A Rocketseat está sempre em busca de novos membros para o time, e geralmente ficamos de olho em quem se destaca no Bootcamp, inclusive 80% do nosso time de devs é composto por alunos do Bootcamp. Além disso, se você tem vontade de ensinar gravando vídeos e criando posts, pode me chamar no Discord! (Sério, me chamem mesmo, esse comentário é real)'
+                    content:'Sed consequat elit non bibendum finibus. Vestibulum semper, nisl sed sodales eleifend, nisl elit blandit mauris, id vulputate quam odio eget purus'
                   },
                   {
                     id: 2,
@@ -59,7 +58,7 @@ class PostList extends Component {
                     },
                     date: '04 Jun 2019',
                     content:
-                      'A Rocketseat está sempre em busca de novos membros para o time, e geralmente ficamos de olho em quem se destaca no Bootcamp, inclusive 80% do nosso time de devs é composto por alunos do Bootcamp. Além disso, se você tem vontade de ensinar gravando vídeos e criando posts, pode me chamar no Discord! (Sério, me chamem mesmo, esse comentário é real)'
+                    'Curabitur eleifend sapien ac tempus fringilla. Sed porta ullamcorper lectus. Ut nec ligula id orci volutpat faucibus. Vestibulum blandit tincidunt odio, eu finibus felis tempor sit amet. Nullam laoreet nisi nec ante hendrerit semper. Aliquam ultrices neque risus, id sodales diam condimentum sed.'
                   },
                   {
                     id: 3,
@@ -69,7 +68,7 @@ class PostList extends Component {
                     },
                     date: '04 Jun 2019',
                     content:
-                      'A Rocketseat está sempre em busca de novos membros para o time, e geralmente ficamos de olho em quem se destaca no Bootcamp, inclusive 80% do nosso time de devs é composto por alunos do Bootcamp. Além disso, se você tem vontade de ensinar gravando vídeos e criando posts, pode me chamar no Discord! (Sério, me chamem mesmo, esse comentário é real)'
+                    'Nullam posuere facilisis purus et ornare. Quisque quis augue ullamcorper, sagittis nisl eu, sodales augue. Praesent at malesuada urna, rutrum posuere tellus. Maecenas non malesuada justo. Curabitur vitae cursus urna. Donec varius, quam sit amet pellentesque facilisis, libero est rhoncus tortor, at porttitor enim ante eget lectus. Curabitur gravida mattis sapien. Nam luctus odio vel arcu interdum tincidunt. Aliquam scelerisque purus velit, ac tincidunt nulla aliquet id. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent tellus tellus, rutrum id ultrices sed, gravida in mi. Vestibulum risus eros, lobortis non mi sed, pulvinar posuere dui. Mauris et justo leo. Donec mi sapien, porta sit amet auctor at, consectetur a arcu'
                   }
                 ]
               },
@@ -80,7 +79,7 @@ class PostList extends Component {
                   avatar: itachi
                 },
                 date: '04 Jun 2019',
-                content: 'Pessoal, alguém sabe se a Rocketseat está contratando?',
+                content: 'Sed at metus at arcu consequat molestie.',
                 comments: [
                   {
                     id: 2,
@@ -90,7 +89,7 @@ class PostList extends Component {
                     },
                     date: '04 Jun 2019',
                     content:
-                      'A Rocketseat está sempre em busca de novos membros para o time, e geralmente ficamos de olho em quem se destaca no Bootcamp, inclusive 80% do nosso time de devs é composto por alunos do Bootcamp. Além disso, se você tem vontade de ensinar gravando vídeos e criando posts, pode me chamar no Discord! (Sério, me chamem mesmo, esse comentário é real)'
+                    'Mauris egestas at tortor et mattis. Fusce elit orci, tempus id enim ac, bibendum dapibus nulla. Quisque eu est volutpat, tristique leo ac, dictum ex.'
                   }
                 ]
               }
