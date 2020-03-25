@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+
+}
+.post-comments {
+    margin-top: 20px;
+}
+.divider {
+    width: 100%;
+    background: #F2F2F2;
+    height:1px;
+
+}
+.coment {
+    display: flex;
+    margin-top: 20px;
+}
+.coment img {
+    min-height: 32px;
+    min-width: 32px;
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+}
+.coment p {
+    border-radius: 20px;
+    background: #eeeeee;
+    margin-left: 10px;
+    padding: 15px;
+    font-size: 13px;
+}
+.coment p span {
+    font-weight: bold;
+    margin-right: 6px;
+}
